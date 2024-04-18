@@ -27,3 +27,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 SportInsight would not have been possible without the support and contributions of the open-source community.
 Special thanks to the Django team and all the developers who have created amazing tools and resources.
+Simo Khanyi
